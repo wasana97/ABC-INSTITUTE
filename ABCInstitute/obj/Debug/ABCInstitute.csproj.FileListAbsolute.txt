@@ -1,0 +1,296 @@
+D:\Itpm project\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe.config
+D:\Itpm project\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe
+D:\Itpm project\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.pdb
+D:\Itpm project\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.homeScreen.resources
+D:\Itpm project\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.Properties.Resources.resources
+D:\Itpm project\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.GenerateResource.cache
+D:\Itpm project\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.CoreCompileInputs.cache
+D:\Itpm project\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.exe
+D:\Itpm project\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.pdb
+D:\Itpm project\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentUserControll.resources
+D:\Itpm project\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddStudentUserControll.resources
+D:\Itpm project\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LogingUserController.resources
+D:\Itpm project\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.TagsUserControll.resources
+D:\Itpm project\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddTagsUserControll.resources
+D:\Itpm project\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csprojAssemblyReference.cache
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe.config
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.pdb
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csprojAssemblyReference.cache
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.homeScreen.resources
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.Properties.Resources.resources
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddStudentUserControll.resources
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddTagsUserControll.resources
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LogingUserController.resources
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentUserControll.resources
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.TagsUserControll.resources
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.GenerateResource.cache
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.CoreCompileInputs.cache
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.exe
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.pdb
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageStudentUserControll.resources
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageTagUserController.resources
+C:\Users\NS Madushanka\Desktop\AbcInstitute\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentIdGenerate.resources
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe.config
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.pdb
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.homeScreen.resources
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.Properties.Resources.resources
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddStudentUserControll.resources
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddTagsUserControll.resources
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddWorkingDaysHours.resources
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.DetailsOfWorkingDaysHours.resources
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LogingUserController.resources
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageStudentUserControll.resources
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageTagUserController.resources
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentIdGenerate.resources
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentUserControll.resources
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.TagsUserControll.resources
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.exe
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.pdb
+C:\Users\USER\Desktop\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csprojAssemblyReference.cache
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe.config
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.pdb
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.homeScreen.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.Properties.Resources.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddStudentUserControll.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddTagsUserControll.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddWorkingDaysHours.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.DetailsOfWorkingDaysHours.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LogingUserController.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageStudentUserControll.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageTagUserController.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentIdGenerate.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentUserControll.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.TagsUserControll.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.GenerateResource.cache
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.CoreCompileInputs.cache
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.exe
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.pdb
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddBuildingsUserControl.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LucturesUserControl.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageLocationUserControl.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.RoomsUserControl.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StaticticsUserControl.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentsUserControl.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.SubjectsUserControl.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewRoomDetailsUserControl.resources
+F:\ITPM Project\Preme Ane vasana\New folder\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csprojAssemblyReference.cache
+D:\f1ABC\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe.config
+D:\f1ABC\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe
+D:\f1ABC\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.pdb
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.homeScreen.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.Properties.Resources.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddBuildingsUserControl.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddStudentUserControll.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddTagsUserControll.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddWorkingDaysHours.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.DetailsOfWorkingDaysHours.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LogingUserController.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LucturesUserControl.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageLocationUserControl.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageStudentUserControll.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageTagUserController.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.RoomsUserControl.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StaticticsUserControl.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentIdGenerate.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentsUserControl.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentUserControll.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.SubjectsUserControl.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.TagsUserControll.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewRoomDetailsUserControl.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.GenerateResource.cache
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.CoreCompileInputs.cache
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.exe
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.pdb
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddLectureUserControl1.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddSubjectUserControl1.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewLectuereUserControl1.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewSubjectUserControl1.resources
+D:\f1ABC\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe.config
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.pdb
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.homeScreen.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.Properties.Resources.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddBuildingsUserControl.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddLectureUserControl1.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddStudentUserControll.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddSubjectUserControl1.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddTagsUserControll.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddWorkingDaysHours.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.DetailsOfWorkingDaysHours.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LogingUserController.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LucturesUserControl.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageLocationUserControl.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageStudentUserControll.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageTagUserController.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.RoomsUserControl.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StaticticsUserControl.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentIdGenerate.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentsUserControl.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentUserControll.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.SubjectsUserControl.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.TagsUserControll.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewLectuereUserControl1.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewRoomDetailsUserControl.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewSubjectUserControl1.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.exe
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.pdb
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddSessionUserControl1.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AllocationUserControl1.resources
+C:\Users\USER\Desktop\s1\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewSessionUserControl1.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe.config
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.pdb
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.homeScreen.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.Properties.Resources.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddBuildingsUserControl.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddLectureUserControl1.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddSessionUserControl1.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddStudentUserControll.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddSubjectUserControl1.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddTagsUserControll.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddWorkingDaysHours.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AllocationUserControl1.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.DetailsOfWorkingDaysHours.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LogingUserController.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LucturesUserControl.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageLocationUserControl.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageStudentUserControll.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageTagUserController.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.RoomsUserControl.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StaticticsUserControl.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentIdGenerate.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentsUserControl.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentUserControll.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.SubjectsUserControl.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.TagsUserControll.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewLectuereUserControl1.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewRoomDetailsUserControl.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewSessionUserControl1.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewSubjectUserControl1.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.exe
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.pdb
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageNotAvailableTimes.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.NotAvailableTimes.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ConsecutiveSession.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageConsecutiveSession.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageParallelSession.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ParallelSession.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageNonOverlapping.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.NonOverlapping.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.RoomUI.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageNotAvailableRooms.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.NotAvailableRooms.resources
+C:\Users\USER\Desktop\ISSAA\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csprojAssemblyReference.cache
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe.config
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.pdb
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.homeScreen.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.Properties.Resources.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddBuildingsUserControl.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddLectureUserControl1.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddSessionUserControl1.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddStudentUserControll.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddSubjectUserControl1.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddTagsUserControll.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddWorkingDaysHours.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AllocationUserControl1.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ConsecutiveSession.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.DetailsOfWorkingDaysHours.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LogingUserController.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LucturesUserControl.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageConsecutiveSession.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageLocationUserControl.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageNonOverlapping.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageNotAvailableRooms.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageNotAvailableTimes.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageParallelSession.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageStudentUserControll.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageTagUserController.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.NonOverlapping.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.NotAvailableRooms.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.NotAvailableTimes.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ParallelSession.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.RoomsUserControl.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.RoomUI.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StaticticsUserControl.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentIdGenerate.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentsUserControl.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentUserControll.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.SubjectsUserControl.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.TagsUserControll.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewLectuereUserControl1.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewRoomDetailsUserControl.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewSessionUserControl1.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewSubjectUserControl1.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.GenerateResource.cache
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.CoreCompileInputs.cache
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.exe
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.pdb
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddSutableRoom.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewSuitableRooms.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageSessionRooms.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewManageSessionRooms.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ADDConsecutiveSession.resources
+C:\Users\theja\OneDrive\Desktop\New folder (2)\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewADDConsecutiveSession.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe.config
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.exe
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\bin\Debug\ABCInstitute.pdb
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.homeScreen.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.Properties.Resources.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddBuildingsUserControl.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ADDConsecutiveSession.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddLectureUserControl1.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddSessionUserControl1.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddStudentUserControll.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddSubjectUserControl1.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddSutableRoom.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddTagsUserControll.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AddWorkingDaysHours.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.AllocationUserControl1.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ConsecutiveSession.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.DetailsOfWorkingDaysHours.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LogingUserController.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.LucturesUserControl.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageConsecutiveSession.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageLocationUserControl.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageNonOverlapping.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageNotAvailableRooms.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageNotAvailableTimes.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageParallelSession.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ManageSessionRooms.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageStudentUserControll.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.manageTagUserController.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.NonOverlapping.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.NotAvailableRooms.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.NotAvailableTimes.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ParallelSession.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.RoomsUserControl.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.RoomUI.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StaticticsUserControl.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentIdGenerate.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentsUserControl.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.StudentUserControll.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.SubjectsUserControl.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.TagsUserControll.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewADDConsecutiveSession.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewLectuereUserControl1.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewManageSessionRooms.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewRoomDetailsUserControl.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewSessionUserControl1.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewSubjectUserControl1.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.UserControll.ViewSuitableRooms.resources
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.exe
+C:\Users\USER\Desktop\nnnnnnn\ABCInstitute\ABCInstitute\obj\Debug\ABCInstitute.pdb

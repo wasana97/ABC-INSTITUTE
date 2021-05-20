@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABCInstitute", "ABCInstitute\ABCInstitute.csproj", "{C520C191-7EF9-4D8D-820E-94B6F459D75B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ABC App", "ABC App\ABC App.vdproj", "{0B9FDFC5-6BFD-4F93-B3F3-5A8DD6DA74E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C520C191-7EF9-4D8D-820E-94B6F459D75B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{C520C191-7EF9-4D8D-820E-94B6F459D75B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{C520C191-7EF9-4D8D-820E-94B6F459D75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C520C191-7EF9-4D8D-820E-94B6F459D75B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9FDFC5-6BFD-4F93-B3F3-5A8DD6DA74E0}.Debug|Any CPU.ActiveCfg = Release
+		{0B9FDFC5-6BFD-4F93-B3F3-5A8DD6DA74E0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87D76860-E6C1-469E-9FC0-D0683A0AA557}
+	EndGlobalSection
+EndGlobal

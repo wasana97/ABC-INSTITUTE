@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C520C191-7EF9-4D8D-820E-94B6F459D75B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ABCInstitute</RootNamespace>
+    <AssemblyName>ABCInstitute</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABC_INSTITUTEDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ABC_INSTITUTEDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InstituteDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InstituteDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="InstituteDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InstituteDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="InstituteDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InstituteDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="InstituteDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InstituteDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="InstituteDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InstituteDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControll\AddBuildingsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\AddBuildingsUserControl.Designer.cs">
+      <DependentUpon>AddBuildingsUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ADDConsecutiveSession.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ADDConsecutiveSession.Designer.cs">
+      <DependentUpon>ADDConsecutiveSession.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\AddLectureUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\AddLectureUserControl1.Designer.cs">
+      <DependentUpon>AddLectureUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\AddSessionUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\AddSessionUserControl1.Designer.cs">
+      <DependentUpon>AddSessionUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\AddStudentUserControll.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\AddStudentUserControll.Designer.cs">
+      <DependentUpon>AddStudentUserControll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\AddSubjectUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\AddSubjectUserControl1.Designer.cs">
+      <DependentUpon>AddSubjectUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\AddSutableRoom.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\AddSutableRoom.Designer.cs">
+      <DependentUpon>AddSutableRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\AddTagsUserControll.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\AddTagsUserControll.Designer.cs">
+      <DependentUpon>AddTagsUserControll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\AddWorkingDaysHours.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\AddWorkingDaysHours.Designer.cs">
+      <DependentUpon>AddWorkingDaysHours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\AllocationUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\AllocationUserControl1.Designer.cs">
+      <DependentUpon>AllocationUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ConsecutiveSession.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ConsecutiveSession.Designer.cs">
+      <DependentUpon>ConsecutiveSession.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\DetailsOfWorkingDaysHours.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\DetailsOfWorkingDaysHours.Designer.cs">
+      <DependentUpon>DetailsOfWorkingDaysHours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\LogingUserController.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\LogingUserController.Designer.cs">
+      <DependentUpon>LogingUserController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\LucturesUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\LucturesUserControl.Designer.cs">
+      <DependentUpon>LucturesUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ManageConsecutiveSession.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ManageConsecutiveSession.Designer.cs">
+      <DependentUpon>ManageConsecutiveSession.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ManageLocationUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ManageLocationUserControl.Designer.cs">
+      <DependentUpon>ManageLocationUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ManageNonOverlapping.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ManageNonOverlapping.Designer.cs">
+      <DependentUpon>ManageNonOverlapping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ManageNotAvailableRooms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ManageNotAvailableRooms.Designer.cs">
+      <DependentUpon>ManageNotAvailableRooms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ManageNotAvailableTimes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ManageNotAvailableTimes.Designer.cs">
+      <DependentUpon>ManageNotAvailableTimes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ManageParallelSession.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ManageParallelSession.Designer.cs">
+      <DependentUpon>ManageParallelSession.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ManageSessionRooms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ManageSessionRooms.Designer.cs">
+      <DependentUpon>ManageSessionRooms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\manageStudentUserControll.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\manageStudentUserControll.Designer.cs">
+      <DependentUpon>manageStudentUserControll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\manageTagUserController.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\manageTagUserController.Designer.cs">
+      <DependentUpon>manageTagUserController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\NonOverlapping.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\NonOverlapping.Designer.cs">
+      <DependentUpon>NonOverlapping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\NotAvailableRooms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\NotAvailableRooms.Designer.cs">
+      <DependentUpon>NotAvailableRooms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\NotAvailableTimes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\NotAvailableTimes.Designer.cs">
+      <DependentUpon>NotAvailableTimes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ParallelSession.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ParallelSession.Designer.cs">
+      <DependentUpon>ParallelSession.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\RoomsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\RoomsUserControl.Designer.cs">
+      <DependentUpon>RoomsUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\RoomUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\RoomUI.Designer.cs">
+      <DependentUpon>RoomUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\StaticticsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\StaticticsUserControl.Designer.cs">
+      <DependentUpon>StaticticsUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\StudentIdGenerate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\StudentIdGenerate.Designer.cs">
+      <DependentUpon>StudentIdGenerate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\StudentsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\StudentsUserControl.Designer.cs">
+      <DependentUpon>StudentsUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\StudentUserControll.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\StudentUserControll.Designer.cs">
+      <DependentUpon>StudentUserControll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\SubjectsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\SubjectsUserControl.Designer.cs">
+      <DependentUpon>SubjectsUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\TagsUserControll.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\TagsUserControll.Designer.cs">
+      <DependentUpon>TagsUserControll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ViewADDConsecutiveSession.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ViewADDConsecutiveSession.Designer.cs">
+      <DependentUpon>ViewADDConsecutiveSession.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ViewLectuereUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ViewLectuereUserControl1.Designer.cs">
+      <DependentUpon>ViewLectuereUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ViewManageSessionRooms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ViewManageSessionRooms.Designer.cs">
+      <DependentUpon>ViewManageSessionRooms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ViewRoomDetailsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ViewRoomDetailsUserControl.Designer.cs">
+      <DependentUpon>ViewRoomDetailsUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ViewSessionUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ViewSessionUserControl1.Designer.cs">
+      <DependentUpon>ViewSessionUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ViewSubjectUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ViewSubjectUserControl1.Designer.cs">
+      <DependentUpon>ViewSubjectUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControll\ViewSuitableRooms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControll\ViewSuitableRooms.Designer.cs">
+      <DependentUpon>ViewSuitableRooms.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserControll\AddBuildingsUserControl.resx">
+      <DependentUpon>AddBuildingsUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ADDConsecutiveSession.resx">
+      <DependentUpon>ADDConsecutiveSession.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\AddLectureUserControl1.resx">
+      <DependentUpon>AddLectureUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\AddSessionUserControl1.resx">
+      <DependentUpon>AddSessionUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\AddStudentUserControll.resx">
+      <DependentUpon>AddStudentUserControll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\AddSubjectUserControl1.resx">
+      <DependentUpon>AddSubjectUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\AddSutableRoom.resx">
+      <DependentUpon>AddSutableRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\AddTagsUserControll.resx">
+      <DependentUpon>AddTagsUserControll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\AddWorkingDaysHours.resx">
+      <DependentUpon>AddWorkingDaysHours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\AllocationUserControl1.resx">
+      <DependentUpon>AllocationUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ConsecutiveSession.resx">
+      <DependentUpon>ConsecutiveSession.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\DetailsOfWorkingDaysHours.resx">
+      <DependentUpon>DetailsOfWorkingDaysHours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\LogingUserController.resx">
+      <DependentUpon>LogingUserController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\LucturesUserControl.resx">
+      <DependentUpon>LucturesUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ManageConsecutiveSession.resx">
+      <DependentUpon>ManageConsecutiveSession.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ManageLocationUserControl.resx">
+      <DependentUpon>ManageLocationUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ManageNonOverlapping.resx">
+      <DependentUpon>ManageNonOverlapping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ManageNotAvailableRooms.resx">
+      <DependentUpon>ManageNotAvailableRooms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ManageNotAvailableTimes.resx">
+      <DependentUpon>ManageNotAvailableTimes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ManageParallelSession.resx">
+      <DependentUpon>ManageParallelSession.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ManageSessionRooms.resx">
+      <DependentUpon>ManageSessionRooms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\manageStudentUserControll.resx">
+      <DependentUpon>manageStudentUserControll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\manageTagUserController.resx">
+      <DependentUpon>manageTagUserController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\NonOverlapping.resx">
+      <DependentUpon>NonOverlapping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\NotAvailableRooms.resx">
+      <DependentUpon>NotAvailableRooms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\NotAvailableTimes.resx">
+      <DependentUpon>NotAvailableTimes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ParallelSession.resx">
+      <DependentUpon>ParallelSession.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\RoomsUserControl.resx">
+      <DependentUpon>RoomsUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\RoomUI.resx">
+      <DependentUpon>RoomUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\StaticticsUserControl.resx">
+      <DependentUpon>StaticticsUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\StudentIdGenerate.resx">
+      <DependentUpon>StudentIdGenerate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\StudentsUserControl.resx">
+      <DependentUpon>StudentsUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\StudentUserControll.resx">
+      <DependentUpon>StudentUserControll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\SubjectsUserControl.resx">
+      <DependentUpon>SubjectsUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\TagsUserControll.resx">
+      <DependentUpon>TagsUserControll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ViewADDConsecutiveSession.resx">
+      <DependentUpon>ViewADDConsecutiveSession.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ViewLectuereUserControl1.resx">
+      <DependentUpon>ViewLectuereUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ViewManageSessionRooms.resx">
+      <DependentUpon>ViewManageSessionRooms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ViewRoomDetailsUserControl.resx">
+      <DependentUpon>ViewRoomDetailsUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ViewSessionUserControl1.resx">
+      <DependentUpon>ViewSessionUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ViewSubjectUserControl1.resx">
+      <DependentUpon>ViewSubjectUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControll\ViewSuitableRooms.resx">
+      <DependentUpon>ViewSuitableRooms.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ABC_INSTITUTEDataSet.xsc">
+      <DependentUpon>ABC_INSTITUTEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ABC_INSTITUTEDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ABC_INSTITUTEDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ABC_INSTITUTEDataSet.xss">
+      <DependentUpon>ABC_INSTITUTEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="InstituteDataSet.xsc">
+      <DependentUpon>InstituteDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="InstituteDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InstituteDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="InstituteDataSet.xss">
+      <DependentUpon>InstituteDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="InstituteDataSet1.xsc">
+      <DependentUpon>InstituteDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="InstituteDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InstituteDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="InstituteDataSet1.xss">
+      <DependentUpon>InstituteDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="InstituteDataSet2.xsc">
+      <DependentUpon>InstituteDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="InstituteDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InstituteDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="InstituteDataSet2.xss">
+      <DependentUpon>InstituteDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="InstituteDataSet3.xsc">
+      <DependentUpon>InstituteDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="InstituteDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InstituteDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="InstituteDataSet3.xss">
+      <DependentUpon>InstituteDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="InstituteDataSet4.xsc">
+      <DependentUpon>InstituteDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="InstituteDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InstituteDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="InstituteDataSet4.xss">
+      <DependentUpon>InstituteDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Previous-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
